@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\services\\rideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:services\\rideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\enum\\ridestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:enum\\ridestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\iservices\\irideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:iservices\\irideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\ui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:ui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\iservices\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:iservices\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\iservices\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:iservices\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|c:\\users\\suchintan roy\\onedrive\\desktop\\projects\\consoleapp\\rideshareconsole\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A429E7-2BF9-4C24-BAA5-347C7C1F534B}|RideshareConsole.csproj|solutionrelative:services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRideService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\IServices\\IRideService.cs",
+              "RelativeDocumentMoniker": "IServices\\IRideService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\IServices\\IRideService.cs",
+              "RelativeToolTip": "IServices\\IRideService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:30:54.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:20:13.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RideService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Services\\RideService.cs",
+              "RelativeDocumentMoniker": "Services\\RideService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Services\\RideService.cs*",
+              "RelativeToolTip": "Services\\RideService.cs*",
+              "ViewState": "AgIAAJAAAAAAAAAAAADwv6wAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:28:43.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:27:00.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Enum\\UserRole.cs",
+              "RelativeToolTip": "Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:28:04.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:55:16.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "Models\\Ride.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Models\\Ride.cs",
+              "RelativeToolTip": "Models\\Ride.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:27:30.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RideStatus.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Enum\\RideStatus.cs",
+              "RelativeDocumentMoniker": "Enum\\RideStatus.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Enum\\RideStatus.cs",
+              "RelativeToolTip": "Enum\\RideStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:28:13.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\UI\\MenuManager.cs",
+              "RelativeDocumentMoniker": "UI\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\UI\\MenuManager.cs",
+              "RelativeToolTip": "UI\\MenuManager.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAIwFgBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:12:23.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\IServices\\IUserService.cs",
+              "RelativeToolTip": "IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:54:58.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\IServices\\INotificationService.cs",
+              "RelativeDocumentMoniker": "IServices\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\IServices\\INotificationService.cs",
+              "RelativeToolTip": "IServices\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:31:25.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\IServices\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "IServices\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\IServices\\IPaymentService.cs",
+              "RelativeToolTip": "IServices\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:31:08.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:27:41.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:29:09.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\OneDrive\\Desktop\\Projects\\ConsoleAPP\\RideshareConsole\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:28:54.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
